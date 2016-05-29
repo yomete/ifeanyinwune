@@ -1,0 +1,42 @@
+<?php 
+	include_once("includes/header.php"); 
+?>
+
+	<div class="container">
+		<div class="row">
+			<div class="in">
+				<div class="in_top">
+					<a class="in_hover" href="controlhats.php">	
+						<div class="in_ch col-md-6 col=sm-12 col-xs-12">
+								<span class="text_content"><span></span></span>
+						</div>
+					</a>	
+
+					<a class="in_hover" href="loudserenity.php">
+						<div class="in_div in_ls col-md-3 col=sm-12 col-xs-12">
+							<span class="text_content"><span></span></span>
+						</div>
+					</a>
+
+					<a class="in_hover" href="controlcollection.php">
+						<div class="in_div in_cc col-md-3 col=sm-12 col-xs-12">	
+							<span class="text_content"><span></span></span>
+						</div>
+					</a>
+
+				</div>
+				<div class="in_bottom">
+					
+					<a class="in_hover" href="timelesscollection.php">
+						<div class="in_div in_tc col-md-12 col-sm-12 col-xs-12">			
+							<span class="text_content"><span></span></span>	
+						</div>
+					</a>
+						
+				</div>
+			</div>
+		</div>
+	</div>
+
+<?php include_once("includes/footer.php");
+?>	
