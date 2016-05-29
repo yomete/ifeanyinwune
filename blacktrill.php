@@ -32,7 +32,7 @@
 
 <header class="blacktrill_header">
 
-    <a style="margin: 0 auto 0 0;" href="index"><img class="header_image" width="100" src="img/basq.png"></a>
+    <a style="margin: 0 auto 0 0;" href="index"><img class="header_image" width="100" src="img/inlogo.jpg"></a>
 
      <nav class="big_menu menu">
         <a class="menu__item" href="about"><span>About</span></a>
